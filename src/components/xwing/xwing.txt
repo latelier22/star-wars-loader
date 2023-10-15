@@ -1,0 +1,7 @@
+.
+├── Xwing.model.tsx
+├── index.tsx
+├── xwing.gltf
+└── xwing.txt
+
+1 directory, 4 files

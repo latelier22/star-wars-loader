@@ -1,0 +1,31 @@
+.
+├── App.tsx
+├── assets
+│   └── react.svg
+├── components
+│   ├── Loading
+│   │   └── loading.tsx
+│   ├── ambient
+│   │   └── ambient.tsx
+│   ├── cam.tsx
+│   ├── ground.tsx
+│   ├── model
+│   │   ├── Format2.glb
+│   │   └── model.jsx
+│   ├── mountainridge
+│   │   ├── MountainRidge.tsx
+│   │   ├── helpers.ts
+│   │   └── index.tsx
+│   ├── scene.tsx
+│   └── xwing
+│       ├── Xwing.model.tsx
+│       ├── index.tsx
+│       └── xwing.gltf
+├── index.css
+├── main.tsx
+├── src.txt
+├── utils
+│   └── glsl.ts
+└── vite-env.d.ts
+
+9 directories, 20 files
